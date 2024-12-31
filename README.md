@@ -94,7 +94,7 @@
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditisahu1234-ban&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditisahu1234&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
