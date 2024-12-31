@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif)
 
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
