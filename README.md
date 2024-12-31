@@ -1,12 +1,14 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
-</style>
-
-<h1 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Bonjour, I'm the Cat Coder
-</h1>
+<head>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+</head>
 
 <div align="center">
+  <h1 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Bonjour, I'm the Cat Coder
+  </h1>
+
 <img       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="700" height="400" alt="Welcome gif">
 </div>
 
