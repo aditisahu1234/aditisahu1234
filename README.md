@@ -12,9 +12,23 @@
 <img       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="700" height="400" alt="Welcome gif">
 </div>
 
-<h3 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, sans-serif; color: #FF5733; text-align: center;">
+<!--<h3 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, sans-serif; color: #FF5733; text-align: center;">
   🌄 Adventurer | 🎨 Artist | 🖥️ Developer
-</h3>
+</h3>-->
+
+🎨 I am a prolific UI/UX designer.
+
+🧑‍💻 Full-Stack Development is my daily cup of coffee.
+
+🍀 My main domains are Cybersecurity, UI/Ux, Machine Learning and Development.
+
+🐍 I am proficient in Python, C++ and JavaScript. 
+
+⬆️ I am constantly upgrading my skillset to come up with extraordinary designs, innovations and solutions.
+
+🌟 (am not a hacker yet) :)
+
+
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
