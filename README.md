@@ -1,6 +1,9 @@
-#🌟 Adventurer | 🎨 Artist | 💻 Developer
-
-##👋Hi there, I'm the Cat Coder!
+<h1 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, sans-serif; color: #FF5733; text-align: center;">
+  Bonjour, I'm the Cat Coder
+</h1>
+<h1 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, sans-serif; color: #FF5733; text-align: center;">
+  🌄 Adventurer | 🎨 Artist | 🖥️ Developer
+</h1>
 
 
 <div align="center">
