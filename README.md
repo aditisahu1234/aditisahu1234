@@ -1,5 +1,8 @@
-## Hi there 👋
-<!--![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif)-->
+#🌟 Adventurer | 🎨 Artist | 💻 Developer
+
+##👋Hi there, I'm the Cat Coder!
+
+
 <div align="center">
 <img       src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="700" height="400" alt="Welcome gif">
 </div>
