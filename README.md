@@ -29,7 +29,6 @@
 </h2>
 
 <!-- Only include the GitHub Stats card once -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditisahu1234&show_icons=true&theme=radical)
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api?username=aditisahu1234&show_icons=true&count_private=true&hide=prs&theme=radical)
 
@@ -42,9 +41,9 @@
 </h2>
 
 
-<h4 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Languages
-</h4>
+</h3>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -55,9 +54,9 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![XML](https://img.shields.io/badge/XML-FF8C00?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 
-<h4 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Frameworks and Libraries
-</h4>
+</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -69,25 +68,25 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Zod](https://img.shields.io/badge/Zod-2C7B76?style=flat&logo=typescript&logoColor=white)](https://zod.dev/)
 
-<h4 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Version Constrol & Hosting
-</h4>
+</h3>
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 
-<h4 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Backend & API
-</h4>
+</h3>
 
 [![Appwrite](https://img.shields.io/badge/Appwrite-2A4E6C?style=flat&logo=appwrite&logoColor=white)](https://appwrite.io/)
 [![Dwolla](https://img.shields.io/badge/Dwolla-00B1B2?style=flat&logo=dwolla&logoColor=white)](https://www.dwolla.com/)
 [![Plaid](https://img.shields.io/badge/Plaid-3D6B72?style=flat&logo=plaid&logoColor=white)](https://plaid.com/)
 
-<h4 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   DataScience, Analytics & Monitoring
-</h4>
+</h3>
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
