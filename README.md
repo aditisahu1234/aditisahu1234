@@ -28,6 +28,13 @@
 
 🌟 (am not a hacker yet) :)
 
+<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Github Stats
+</h2>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
