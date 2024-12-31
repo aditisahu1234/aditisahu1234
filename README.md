@@ -40,66 +40,6 @@
   🛠️ Tech Stack
 </h2>
 
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Languages
-</h3>
-
-<!-- Example with increased size for JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="180" height="50" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="180" height="50" alt="TypeScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="180" height="50" alt="Python">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" width="180" height="50" alt="C++">
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="180" height="50" alt="C">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" width="180" height="50" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" width="180" height="50" alt="CSS">
-<img src="https://img.shields.io/badge/XML-FF8C00?style=flat&logo=xml&logoColor=white" width="180" height="50" alt="XML">
-
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Frameworks and Libraries
-</h3>
-
-<!-- Example with increased size for React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="180" height="50" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" width="180" height="50" alt="Next.js">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" width="180" height="50" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/NativeWind-61DAFB?style=flat&logo=react&logoColor=black" width="180" height="50" alt="NativeWind">
-<img src="https://img.shields.io/badge/ShadCN-000000?style=flat&logo=github&logoColor=white" width="180" height="50" alt="ShadCN">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" width="180" height="50" alt="React Native">
-<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" width="180" height="50" alt="Expo">
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" width="180" height="50" alt="npm">
-<img src="https://img.shields.io/badge/Zod-2C7B76?style=flat&logo=typescript&logoColor=white" width="180" height="50" alt="Zod">
-
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Version Control & Hosting
-</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="180" height="50" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="180" height="50" alt="GitHub">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" width="180" height="50" alt="Vercel">
-
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Backend & API
-</h3>
-
-<img src="https://img.shields.io/badge/Appwrite-2A4E6C?style=flat&logo=appwrite&logoColor=white" width="180" height="50" alt="Appwrite">
-<img src="https://img.shields.io/badge/Dwolla-00B1B2?style=flat&logo=dwolla&logoColor=white" width="180" height="50" alt="Dwolla">
-<img src="https://img.shields.io/badge/Plaid-3D6B72?style=flat&logo=plaid&logoColor=white" width="180" height="50" alt="Plaid">
-
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  DataScience, Analytics & Monitoring
-</h3>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" width="180" height="50" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" width="180" height="50" alt="NumPy">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" width="180" height="50" alt="Jupyter">
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" width="180" height="50" alt="Sentry">
-<img src="https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white" width="180" height="50" alt="Chart.js">
-
-
-<!--<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  🛠️ Tech Stack
-</h2>
-
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Languages
@@ -152,7 +92,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white)](https://www.chartjs.org/)-->
+[![Chart.js](https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 
 
 <!--
