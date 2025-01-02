@@ -4,7 +4,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
 </head>
 
-<div align="center">
+<div align="center" style="background-color: #b8c0ff; padding: 20px; border-radius: 10px;">
   <h1 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
     Bonjour, I'm the Cat Coder
   </h1>
