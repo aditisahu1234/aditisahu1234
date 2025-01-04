@@ -68,6 +68,81 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Zod](https://img.shields.io/badge/Zod-2C7B76?style=flat&logo=typescript&logoColor=white)](https://zod.dev/)
 
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+</head>
+
+<div align="center">
+  <h1 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+    Bonjour, I'm the Cat Coder
+  </h1>
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="700" height="400" alt="Welcome gif">
+</div>
+
+🎨 I am a prolific UI/UX designer.
+
+🧑‍💻 Full-Stack Development is my daily cup of coffee.
+
+🍀 My main domains are Cybersecurity, UI/UX, Machine Learning, and Development.
+
+🐍 I am proficient in Python, C++ and JavaScript.
+
+⬆️ I am constantly upgrading my skillset to come up with extraordinary designs, innovations, and solutions.
+
+🌟 (am not a hacker yet) :)
+
+<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Github Stats
+</h2>
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=aditisahu1234&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditisahu1234&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisahu1234&layout=compact&theme=radical)
+
+<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  🛠️ Tech Stack
+</h2>
+
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Languages
+</h3>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![XML](https://img.shields.io/badge/XML-FF8C00?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)
+
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Frameworks and Libraries
+</h3>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![NativeWind](https://img.shields.io/badge/NativeWind-61DAFB?style=flat&logo=react&logoColor=black)](https://www.nativewind.dev/)
+[![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat&logo=github&logoColor=white)](https://github.com/shadcn/ui)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![React Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Zod](https://img.shields.io/badge/Zod-2C7B76?style=flat&logo=typescript&logoColor=white)](https://zod.dev/)
+
+<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Tools
+</h3>
+
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/webstorm/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/)
+
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Version Constrol & Hosting
 </h3>
