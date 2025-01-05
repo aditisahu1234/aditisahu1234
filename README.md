@@ -9,7 +9,7 @@
     Bonjour, I'm the Cat Coder
   </h1>
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="600" height="250" alt="Welcome gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpsbnBocnY3eTgycDVlb3JyYjNlcjNneTQ4NGhudG1vN240bjRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTVH8Xo4Wo0alEs2fW/giphy.gif" width="650" height="300" alt="Welcome gif">
 </div>
 
 🎨 I am a prolific UI/UX designer.
