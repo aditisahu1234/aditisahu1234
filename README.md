@@ -69,13 +69,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<!--
 [![XML](https://img.shields.io/badge/XML-FF8C00?style=flat&logo=xml&logoColor=white)](https://www.w3.org/XML/)-->
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
@@ -108,7 +102,7 @@
 
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Tools
+  Tools & Design
 </h3>
 
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/webstorm/)
@@ -116,6 +110,8 @@
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Version Constrol & Hosting
@@ -124,27 +120,18 @@
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!--[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+<!--
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)-->
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Databases/ API's/ ORM
 </h3>
 
-<!--[![Appwrite](https://img.shields.io/badge/Appwrite-2A4E6C?style=flat&logo=appwrite&logoColor=white)](https://appwrite.io/)-->
 [![Dwolla](https://img.shields.io/badge/Dwolla-00B1B2?style=flat&logo=dwolla&logoColor=white)](https://www.dwolla.com/)
 [![Plaid](https://img.shields.io/badge/Plaid-3D6B72?style=flat&logo=plaid&logoColor=white)](https://plaid.com/)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-<h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
-  Design
-</h3>
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   ML/DL
@@ -163,7 +150,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditisahu1234&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
 
 
-## 🌐 Socials:
+##My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditisahumeowmeow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sahu-developer) 
 
 [![](https://visitcount.itsvg.in/api?id=aditisahu1234&icon=2&color=9)](https://visitcount.itsvg.in)
