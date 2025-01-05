@@ -142,6 +142,11 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
+</picture>
 
 <!--[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
@@ -159,11 +164,7 @@
 [![](https://visitcount.itsvg.in/api?id=aditisahu1234&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
-</picture>
+
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
