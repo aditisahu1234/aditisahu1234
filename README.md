@@ -167,6 +167,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditisahumeowmeow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sahu-developer) 
 
 [![](https://visitcount.itsvg.in/api?id=aditisahu1234&icon=2&color=9)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
+</picture>
 <!--
 **aditisahu1234/aditisahu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
