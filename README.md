@@ -105,13 +105,14 @@
   Tools & Design
 </h3>
 
-[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/webstorm/)
-<!--[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)-->
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/webstorm/)
+<!--[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)-->
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://greensock.com/)
 
 <h3 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
   Version Constrol & Hosting
@@ -149,8 +150,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditisahu1234&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
 
+<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  My Socials:
+</h2>
 
-##My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditisahumeowmeow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sahu-developer) 
 
 [![](https://visitcount.itsvg.in/api?id=aditisahu1234&icon=2&color=9)](https://visitcount.itsvg.in)
