@@ -142,12 +142,13 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
 
+<div width="700" height="500">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
 </picture>
-
+</div>
 <!--[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FE3B00?style=flat&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)-->
