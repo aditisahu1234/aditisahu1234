@@ -142,8 +142,10 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)](https://sentry.io/)
 
-
-<picture width="1000" height="800">
+<h2 style="font-size: 3em; font-family: 'Inconsolata', monospace; color: #FF5733; text-align: center;">
+  Contributions:
+</h2>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aditisahu1234/aditisahu1234/output/github-snake.svg" />
