@@ -31,7 +31,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=aditisahu1234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true))<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditisahu1234&theme=tokyonight&hide_border=false&cache_seconds=1800)<br/>
+<!--STREAK-->
+![GitHub Streak Stats](streak-stats.svg)
+<!--STREAK-->
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisahu1234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
